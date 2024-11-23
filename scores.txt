@@ -1,0 +1,5 @@
+לפס,Hard,3
+kk,Normal,2
+1,Normal,0
+vac,Normal,0
+vlad a4,Hard,0
